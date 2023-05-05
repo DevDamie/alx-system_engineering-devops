@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x03. Shell, init files, variables and expansions
 
 About Bash projects
@@ -76,3 +77,6 @@ Read your /etc/profile, /etc/inputrc and ~/.bashrc files.
 Look at some files in the /etc/profile.d directory.
 
 Note: You do not have to learn about awk, tar, bzip2, date, scp, ulimit, umask, or shell scripting, yet.
+=======
+This directory is for shell vatiable expansions
+>>>>>>> ad8ba267c1910fe5c1fd3bbf84f60cf6fb438a8d

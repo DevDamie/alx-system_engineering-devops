@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo $PATH | tr -s ':' '\n' | wc -l
+=======
+echo $((` echo $PATH | grep -o ":/" | wc -` +1))
+>>>>>>> ad8ba267c1910fe5c1fd3bbf84f60cf6fb438a8d
